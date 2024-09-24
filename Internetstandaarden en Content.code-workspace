@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../hello-world"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Content site maken "
+	}
+}
